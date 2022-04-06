@@ -1,3 +1,4 @@
-http://example.com/2022/04/06/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/
-http://example.com/2022/04/06/hello-world/
-http://example.com/
+http://chanforg.github.io/about/index.html
+http://chanforg.github.io/2022/04/06/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/
+http://chanforg.github.io/2022/04/06/hello-world/
+http://chanforg.github.io/
